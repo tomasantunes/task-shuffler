@@ -1,0 +1,15 @@
+var tasks = [
+    "Excel Course",
+    "Brilliant.org",
+    "JS Data Structures and Algorithms",
+    "Watch Movie",
+    "Watch TV Show",
+    "Read Book",
+    "Solve Sudoku Puzzle",
+    "Read Math Book",
+    "Watch Numberphile",
+    "Watch Computerphile",
+    "Watch Veritasium",
+    "Watch How Money Works",
+    "Watch Kurzgesagt",
+];
